@@ -63,9 +63,7 @@ Exemplos de temas trabalhados:
 - dashboards e relatórios;
 - automações com Python.
 
-📎 Repositórios: (https://github.com/Murilolima98/ProjetoTripleTen)
-
-                  (https://github.com/Murilolima98/tripleten-projeto-final)
+📎 Repositórios: (https://github.com/Murilolima98/ProjetoTripleTen) | (https://github.com/Murilolima98/tripleten-projeto-final)
 
 ---
 
